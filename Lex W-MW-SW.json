@@ -1,0 +1,14 @@
+﻿[
+  {"Type":"AltTab"},
+  {"Type":"Click","X":427,"Y":326,"Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"Click","X":422,"Y":342,"Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"Click","X":490,"Y":324,"Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"SequentialPhonePart","Window":"LEX - Personal - Microsoft​ Edge","UsePhoneNumber":true,"PhonePart":1},
+  {"Type":"Click","X":531,"Y":326,"Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"SequentialPhonePart","Window":"LEX - Personal - Microsoft​ Edge","UsePhoneNumber":true,"PhonePart":2},
+  {"Type":"Click","X":572,"Y":325,"Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"SequentialPhonePart","Window":"LEX - Personal - Microsoft​ Edge","UsePhoneNumber":true,"PhonePart":3},
+  {"Type":"TabNavigate","Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"DKey","Window":"LEX - Personal - Microsoft​ Edge"},
+  {"Type":"Click","X":55,"Y":554,"Window":"LEX - Personal - Microsoft​ Edge"}
+]

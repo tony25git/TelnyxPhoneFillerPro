@@ -1,0 +1,18 @@
+﻿[
+  {"Type":"Click","X":213,"Y":248,"Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"RowNumber","X":213,"Y":248,"Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"KeyPress","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"KeyPress","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"SequentialPhonePart","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome","UsePhoneNumber":true,"PhonePart":1},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"SequentialPhonePart","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome","UsePhoneNumber":true,"PhonePart":2},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"SequentialPhonePart","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome","UsePhoneNumber":true,"PhonePart":3},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"SequentialPhonePart","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome","UsePhoneNumber":true,"PhonePart":4},
+  {"Type":"Tab","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"KeyPress","Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"},
+  {"Type":"Click","X":63,"Y":284,"Window":"Local Service Interface - Service Order - LSOG 9 - Google Chrome"}
+]

@@ -1,0 +1,6 @@
+﻿[
+  {"Type":"AltTab"},
+  {"Type":"Click","X":1220,"Y":399,"Window":"LSR Order (CB - Number Port) and 1 more page - Personal - Microsoft​ Edge"},
+  {"Type":"SequentialPhonePart","Window":"LSR Order (CB - Number Port) and 1 more page - Personal - Microsoft​ Edge","UsePhoneNumber":true,"PhonePart":1},
+  {"Type":"Click","X":1339,"Y":369,"Window":"LSR Order (CB - Number Port) and 1 more page - Personal - Microsoft​ Edge"}
+]
