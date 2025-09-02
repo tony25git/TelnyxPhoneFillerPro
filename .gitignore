@@ -1,0 +1,35 @@
+# AutoHotkey specific
+*.bak
+*.backup
+*.tmp
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test and debug files
+debug_*.txt
+test_*.ahk
+test_*.json
+
+# Backup directories
+PROTECTED_VERSIONS/
+backups/
+old/
+
+# Installation files
+*.exe
+*.msi
+*.zip
+
+# User-specific files
+user_settings.json
+personal_workflows/
